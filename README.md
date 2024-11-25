@@ -1,1 +1,1 @@
-Its my second semester project that uses all cocepts of Oop.Its basically an clone of food panda app it has different classes for differetnt puposes
+Its my second semester project that uses all cocepts of Oop.Its basically an clone of food panda app it has different classes for differetnt puposes.PPP project file is another simple shop management sysytem using all Oop concepts
