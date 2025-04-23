@@ -1,0 +1,4 @@
+A -> c | ε
+B -> d
+S -> aS_factored1 | b
+S_factored1 -> A | B

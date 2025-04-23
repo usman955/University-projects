@@ -1,0 +1,2 @@
+S -> S a | A b | c
+A -> A d | e
